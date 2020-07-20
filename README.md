@@ -1,6 +1,6 @@
 # Welcome to GitHub
 
-ohihih
+Di is trying to learn how to use Github.
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
 
