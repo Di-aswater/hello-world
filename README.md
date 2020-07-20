@@ -1,4 +1,4 @@
-# Welcome to GitHub
+# Di is trying to learn how to create new Branch.
 
 Di is trying to learn how to use Github.
 
